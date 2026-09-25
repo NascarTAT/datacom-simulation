@@ -13,6 +13,10 @@
 | 1 | [Email Login Incident](Task-01-Email-Login/README.md) | Troubleshooting, клиентская коммуникация, Incident Report |
 | 2 | [Priority & Communication](Task-02-Priority-and-Communication/README.md) | Приоритизация (ITIL), работа с Major Incident, коммуникация |
 
+## Сертификат
+
+[Datacom Service Desk Job Simulation — Certificate](certificate.pdf) — подтверждение прохождения симуляции (Forage, сентябрь 2026).
+
 ## Использованные концепции
 
 - **ITIL**: Incident Management, Major Incident, Service Request, Escalation
