@@ -1,0 +1,14 @@
+# Временные файлы Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Системные файлы
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Логи и кэш
+*.log
+.vscode/
+.idea/
